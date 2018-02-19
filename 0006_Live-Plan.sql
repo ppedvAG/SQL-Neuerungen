@@ -1,0 +1,3 @@
+--im SSMS einschalten...ab 2016
+--nie in Schleifen Pläne anzeigen lassen
+--auch nie set statistics io, time on
